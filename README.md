@@ -24,8 +24,9 @@ Welcome to my first completed React E-Commerce application! This project transfo
 
 ## How to Use:
 
- **Clone the Repository:**
+
    ```bash
+  **Clone the Repository:**
    git clone https://github.com/your-username/your-repo.git
    cd your-repo
 
