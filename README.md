@@ -1,6 +1,6 @@
 # Dynamic React E-Commerce Application
 
-Welcome to our completed React E-Commerce application! This project transforms static HTML and CSS pages into a dynamic React application, incorporating reusable components and server interactions. Elevate your online shopping experience with seamless navigation and real-time updates.
+Welcome to my first completed React E-Commerce application! This project transforms static HTML and CSS pages into a dynamic React application, incorporating reusable components and server interactions. Elevate your online shopping experience with seamless navigation and real-time updates.
 
 ## Features:
 
