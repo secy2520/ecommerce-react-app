@@ -22,19 +22,3 @@ Welcome to my first completed React E-Commerce application! This project transfo
 
 - Optimized for various devices, ensuring a consistent and user-friendly interface.
 
-## How to Use:
-
-
-   ```bash
-  //Clone the Repository:
-   git clone https://github.com/your-username/your-repo.git
-   cd your-repo
-
- //Install npm:
-   ```bash
-   npm install
-
- //Start npm:
-   ```bash
-   npm start
-
