@@ -26,15 +26,15 @@ Welcome to my first completed React E-Commerce application! This project transfo
 
 
    ```bash
-  Clone the Repository:
+  //Clone the Repository:
    git clone https://github.com/your-username/your-repo.git
    cd your-repo
 
- Install npm:
+ //Install npm:
    ```bash
    npm install
 
- Start npm:
+ //Start npm:
    ```bash
    npm start
 
